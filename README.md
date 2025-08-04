@@ -87,7 +87,7 @@ When I'm not debugging microcontrollers or training neural networks, you'll find
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-kitnawat-2023160&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysuh-kitnawat-2023160&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-kitnawat-2023160&layout=compact&theme=radical)
 
 ---
 
