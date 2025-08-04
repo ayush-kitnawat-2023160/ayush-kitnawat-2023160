@@ -85,9 +85,9 @@ When I'm not debugging microcontrollers or training neural networks, you'll find
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-kitnawat-2023160&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aysuh-kitnawat-2023160&layout=compact&theme=radical)
 
 ---
 
@@ -97,7 +97,6 @@ I'm always excited to collaborate on projects that combine **AI/ML with embedded
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
 
 ---
 
