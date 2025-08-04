@@ -95,8 +95,8 @@ When I'm not debugging microcontrollers or training neural networks, you'll find
 
 I'm always excited to collaborate on projects that combine **AI/ML with embedded systems**, discuss **startup ideas**, or simply chat about the latest in **technology and innovation**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-kitnawat-81046b2a1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkitnawat007@gmail.com)
 
 ---
 
